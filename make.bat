@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\NSIS\NSIS.exe" /Doutput_exe="vpn-output.exe" script-install.nsi
